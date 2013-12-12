@@ -1,4 +1,5 @@
 # implementation of card game - Memory
+# Author :  Amanadeep 
 
 import simplegui
 import random
